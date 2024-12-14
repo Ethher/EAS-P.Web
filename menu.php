@@ -344,9 +344,6 @@
                 <span>Phone:</span> +1234567890
             </div>
             <div class="profile-detail">
-                <span>Subscription:</span> Active
-            </div>
-            <div class="profile-detail">
                 <span>Password:</span> <span class="password">********</span>
             </div>
             <button class="update-button">Update Profile</button>
@@ -374,9 +371,6 @@
                 </div>
                 <div class="profile-detail">
                     <span>Phone:</span> +1234567890
-                </div>
-                <div class="profile-detail">
-                    <span>Subscription:</span> Active
                 </div>
                 <div class="profile-detail">
                     <span>Password:</span> <span class="password">********</span>
